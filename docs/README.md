@@ -16,28 +16,6 @@
 * [effective-java-3rd 英文版 ](https://pan.baidu.com/s/1mJx5ZrOD_RPjf3ghQnBV5g)
 * [effective-java-3rd 源代码](https://github.com/jbloch/effective-java-3e-source-code)
 
-## 一起来校对翻译
-
-Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=1027&k=5tscKwN)
-
-<center>
-<img width="300" src="http://sjsdfg.gitee.io/effective-java-3rd-chinese/images/groupcode.png" />
-</center>
-
-
-
-##  品牌衣服一折购
-
-<center>
-<img width="400" src="https://upload.cc/i1/2019/10/26/q0FTRg.jpg" />
-</center>
-
-
-
-## 友情链接
-
- - [On Java 8中文版 - 即 thinking in java 第五版](https://github.com/LingCoder/OnJava8)
-
 ## 📚 高效 Java 第三版
 
 ### Chapter 2. Creating and Destroying Objects
@@ -164,6 +142,4 @@ Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=102
 - [90. 考虑用序列化代理代替序列化实例](notes/90.%20考虑用序列化代理代替序列化实例.md)
 
 ## 😋 Give me a Favor
-<center>
-<img width="600" src="http://static.zybuluo.com/ZzzJoe/yflamvkjh2i7zn5qcp9wpj61/%E5%AF%92%E6%B2%A7.jpg" />
-</center>
+
